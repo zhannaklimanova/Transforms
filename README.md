@@ -7,4 +7,3 @@ The .ipynb *report* is composed of various sections:<br>
 4. **Fast Fourier Transform (FFT)**: explains and implements the algorithms. Conducts tests with the generated waveforms from the Data section. Compares results with those of the Numpy FFT.
 5. **Runtime Comparisons**: compares the runtime of the DFT and FFT algorithms.
 6. **Minimalist Filter Experiment**: very minimalist sound compression algorithm that computes the DFT, removes a certain number of frequency values based on compression level, and returns the final waveform by running the inverse FFT.
-7. **Short-Time Fourier Transform (STFT)**: version of the STFT algorithm which is tested on some of the waveforms from the Data section as well as a newly generated damping waveform.
