@@ -8,3 +8,5 @@ The .ipynb *report* is composed of various sections:<br>
 5. **Runtime Comparisons**: compares the runtime of the DFT and FFT algorithms.
 6. **Minimalist Filter Experiment**: very minimalist sound compression algorithm that computes the DFT, removes a certain number of frequency values based on compression level, and returns the final waveform by running the inverse FFT.
 7. **Short-Time Fourier Transform (STFT)**: version of the STFT algorithm which is tested on a damping waveform that decays as a function of time.
+8. **Future Work**: briefly discusses how the project can be further extended.
+9. **Sources**: lists sources utilized.
